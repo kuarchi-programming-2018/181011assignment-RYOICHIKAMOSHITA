@@ -23,6 +23,7 @@ teamのメンバーの攻撃力は、あらかじめteamに定義されていま
 敵のHPは残り280です
 '''
 
+
 # RPGの攻撃シーン
 
 def attack(person):

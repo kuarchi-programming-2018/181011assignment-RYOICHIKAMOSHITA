@@ -26,6 +26,7 @@ print(line)
 num=len(line)
 print(line[random.randrange(num)])
 
+
 # 今回は自力で全部書いてみよう！
 
 # カンマで分割して、リストに代入
